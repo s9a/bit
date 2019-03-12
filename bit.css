@@ -1,0 +1,39 @@
+.bit-html { line-height: 1.5; -webkit-text-size-adjust: 100% }
+.bit-html body:not(.bit-body) { margin: 0 }
+.bit-body { margin: 0 }
+
+.bit-serif { font-size: 1em; font-family: serif }
+.bit-sans { font-size: 1em; font-family: sans-serif }
+.bit-mono { font-size: 1em; font-family: monospace, monospace }
+
+.bit-scale,
+.bit-scale img {
+  max-width: 100%;
+  height: auto;
+}
+
+.bit-box {
+  border-radius: 0;
+  border-width: 0;
+  box-sizing: border-box;
+  margin: 0;
+  max-height: 100%;
+  max-width: 100%;
+  padding: 0;
+}
+
+.bit-rack {
+  list-style: none;
+}
+
+.bit-flush { margin: 0 }
+.bit-auto { margin: auto }
+
+.bit-flower { display: block }
+.bit-inline { display: inline }
+.bit-bling { display: inline-block }
+.bit-table { display: table }
+.bit-block { display: block }
+.bit-flower { display: flow-root }
+.bit-flex { display: flex }
+.bit-zap { display: none }
